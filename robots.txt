@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iepaethoht.northpaw.space/sitemap.xml
